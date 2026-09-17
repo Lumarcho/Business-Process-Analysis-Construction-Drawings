@@ -1,10 +1,12 @@
 # Business Process Analysis: Issuing of Construction-Drawings
 **Project Overview**
+
 This Work Integrated Learning project analyses inefficiencies in the construction drawing issuance process at BBC Consulting Engineers, a civil engineering consultancy based in Pietermaritzburg, South Africa.
 
 The project focuses on how construction drawings are prepared, reviewed, approved, issued, and archived. It examines the interaction between business processes, project management, stakeholders, and information systems, with the aim of identifying operational gaps and recommending practical improvements.
 
 **Objectives**
+
 The project aims to:
 
 Analyse the current AS-IS drawing issuance process.
@@ -14,6 +16,7 @@ Compare the current process with a desired TO-BE state.
 Recommend technology, process, people, and governance improvements.
 
 **Business Analysis Approach**
+
 The project applies business analysis and process improvement techniques, including:
 
 Business Genetics W5 modelling
@@ -29,6 +32,7 @@ Requirements analysis
 Process improvement recommendations
 
 **Process Analysed**
+
 The analysed process covers the full lifecycle of issuing construction drawings, from client engagement to final distribution and archiving.
 
 Key activities include:
@@ -45,6 +49,7 @@ Sending drawings to clients and contractors
 Archiving issued drawings
 
 **Key Findings**
+
 The analysis found that the current process is manual, fragmented, and dependent on outdated systems. Main issues include:
 
 Outdated CAD software and slow computers
@@ -60,6 +65,7 @@ Weak IT governance and underinvestment
 Pareto analysis showed that outdated IT systems, printer/scanner failures, and version control weaknesses account for approximately 70% of process inefficiencies.
 
 **Proposed Improvement Direction**
+
 The proposed TO-BE process focuses on modernising the drawing issuance workflow through digital tools, standardised processes, staff support, and stronger governance.
 
 Recommended improvements include:
@@ -75,6 +81,7 @@ Training staff on digital tools and workflow management
 Treating IT investment as a strategic business enabler
 
 **Implementation Roadmap**
+
 The recommendations are structured into three phases:
 
 Short term: 0–6 months
@@ -94,6 +101,7 @@ Strengthen IT governance using frameworks such as COBIT or ISO 38500.
 Apply continuous improvement practices such as Lean Six Sigma.
 
 **Expected Benefits**
+
 The proposed improvements are expected to:
 
 Reduce delays and rework.
@@ -105,6 +113,7 @@ Lower operational and project risks.
 Strengthen BBC Consulting Engineers’ competitiveness.
 
 **Skills Demonstrated**
+
 This project demonstrates practical skills in:
 
 Business analysis
@@ -121,6 +130,7 @@ Information systems alignment
 Change and stakeholder management
 
 **Portfolio Note**
+
 This academic project was completed as part of the Advanced Diploma in Business Analysis: Work Integrated Learning module at Rhodes University.
 
 It demonstrates the application of business analysis and process improvement techniques to a real-world engineering consulting process. The content has been adapted for portfolio use and does not disclose confidential client information.                                                                                                                                                                                                                                                                                                                                 
